@@ -10,6 +10,7 @@ public class ListDemo {
     public static void main(String[] args) {
         LinkedList<Integer>  userAgeList = new LinkedList<>();
         userAgeList.add(40);
+        userAgeList.add(53);
         userAgeList.add(45);
         userAgeList.add(53);
         userAgeList.add(2,51);
