@@ -14,7 +14,6 @@ public class ListDemo {
         userAgeList.add(45);
         userAgeList.add(53);
         userAgeList.add(2,51);
-
         System.out.println("size = " + userAgeList.size());
         userAgeList.remove(3);
         System.out.println("contains = " + userAgeList.contains(12));
